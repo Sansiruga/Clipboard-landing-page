@@ -30,6 +30,7 @@ body {
     color: white;
     font-size: 15px;
     text-decoration: none;
+    outline: none;
 }
 
 .page {
