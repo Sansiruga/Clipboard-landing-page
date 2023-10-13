@@ -30,7 +30,7 @@ body {
     color: white;
     font-size: 15px;
     text-decoration: none;
-    outline: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .page {
